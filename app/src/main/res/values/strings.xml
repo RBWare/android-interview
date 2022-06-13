@@ -10,11 +10,15 @@
 	<string name="about_fragment">About Fragment</string>
 	<string name="about_content">Insert some text about the app eventually</string>
 	<string name="current_weather">Current Weather</string>
+	<string name="forecast">Forecast</string>
 	<string name="local_time">Local Time:</string>
 	<string name="temp">Temperature:</string>
 	<string name="condition">Condition:</string>
 	<string name="wind_direction">Wind Direction:</string>
 	<string name="wind_speed">Wind Speed:</string>
+	<string name="date">Date:</string>
+	<string name="min_temperature">Min Temperature:</string>
+	<string name="max_temperature">Max Temperature:</string>
 	<string name="go">Go</string>
 	<string name="enter_zip_or_city">Enter Zip or City</string>
 	<string name="refresh">Refresh</string>
@@ -25,4 +29,6 @@
 	<string name="metric">Metric</string>
 	<string name="units">Units</string>
 	<string name="name">Name</string>
+	<string name="error_occurred_retrieving_weather_information">Error occurred retrieving weather information</string>
+	<string name="auto_complete">Autocomplete</string>
 </resources>
